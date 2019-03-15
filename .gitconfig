@@ -2,3 +2,7 @@
 	name = Gaspar Kolumban
 	email = gaspar.kolumban@gmail.com
 
+[alias]
+	st = status
+	su = submodule update --init --recursive
+	co = checkout
