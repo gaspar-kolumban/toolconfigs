@@ -6,3 +6,4 @@
 	st = status
 	su = submodule update --init --recursive
 	co = checkout
+	rb = rebase
