@@ -7,3 +7,4 @@
 	su = submodule update --init --recursive
 	co = checkout
 	rb = rebase
+    sh = show
