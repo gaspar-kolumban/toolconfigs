@@ -8,3 +8,4 @@
     co = checkout
     rb = rebase
     sh = show
+    br = branch
